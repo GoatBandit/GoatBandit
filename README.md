@@ -39,18 +39,18 @@
 <h3>Just a little explanation on how I handle my repos (and projects in general) to make them a bit more understandable!</p>
 <br>
 <h4>Commit Names:</h4>
-I generally aim to give each commit a version number in order to keep track of updates. With it I can tell what I've been forgetting to update and also allows me to easily link each file change to the given commit. It just makes life a bit easier I guess.
+<p>I generally aim to give each commit a version number in order to keep track of updates. With it I can tell what I've been forgetting to update and also allows me to easily link each file change to the given commit. It just makes life a bit easier I guess.</p>
 <h4>Version Numbers:</h4>
-The numbers actually mean something (sometimes)! Here's what I aim for the numbers to mean and how they change:
+<p>The numbers actually mean something (sometimes)! Here's what I aim for the numbers to mean and how they change:</p>
 <ul>
-<li>- v0.1 = Usually just boilerplate. There's nothing here besides the required initial files</li>
-<li>- v0.2 = The projects first baby steps</li>
-<li>- v0.3 - v0.8 = The alpha stages!</li>
-<li>- v0.9 - v1.2 = The beta stages!</li>
-<li>- v1.3+ = The project has left the early stages and should be able to be released!</li>
+<li>v0.1        = Usually just boilerplate. There's nothing here besides the required initial files</li>
+<li>v0.2        = The projects first baby steps</li>
+<li>v0.3 - v0.8 = The alpha stages!</li>
+<li>v0.9 - v1.2 = The beta stages!</li>
+<li>v1.3+       = The project has left the early stages and should be able to be released!</li>
 </ul>
-The version numbers are intended to increase by a tenth for each major change (e.g. new features) and a hundreth for each minor change (e.g. bug fixes).
-Of course this is only in a perfect world... Usually the version numbers just get messed up but the intention was always there!
+<p>The version numbers are intended to increase by a tenth for each major change (e.g. new features) and a hundreth for each minor change (e.g. bug fixes).</p>
+<p><font size="1">Of course this is only in a perfect world... Usually the version numbers just get messed up but the intention was always there!</p>
 
 ⚡ Fun fact: Goats have rectangular pupils. It never stops being weird to look at...
 
