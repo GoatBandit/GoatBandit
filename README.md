@@ -35,8 +35,10 @@
     </h4>
 </div>
 
-<h1 align="center"><a name="repoInfo">Repo Information</a></h1>
-<h2 align="center">Understanding my Repositories</h2>
+<div>
+    <h1 align="center"><a name="repoInfo">Repo Information</a></h1>
+    <h2 align="center">Understanding my Repositories</h2>
+</div>
 
 <div>
     <h3>Current Primary Focus:</h3>
