@@ -37,7 +37,7 @@
 
 <div>
     <h1 align="center"><a name="repoInfo">Repo Information</a></h1>
-    <h2 align="center">Understanding my Repositories</h2>
+    <h3 align="center">Understanding my Repositories</h3>
 </div>
 
 <div>
